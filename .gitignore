@@ -1,0 +1,6 @@
+docs/figures/
+docs/data/
+.venv/
+__pycache__/
+*.vcd
+*.fst
