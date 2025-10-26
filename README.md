@@ -63,18 +63,17 @@ This script generates **reference data** and **visual plots** to validate the co
 #### Example Figures
 
 **BER vs Eb/N₀ (Coded vs Uncoded):**  
-![BER vs Eb/N0 — Coded vs Uncoded](docs/figures/BER_curves_coded_vs_uncoded.png)
+<img width="1116" height="756" alt="BER_curves_coded_vs_uncoded" src="https://github.com/user-attachments/assets/dab74201-466d-4302-ae9b-d231c6c9f975" />
 
 **BPSK Constellation:**  
-![BPSK Constellation](docs/figures/BPSK_constellation.png)
+<img width="720" height="720" alt="BPSK_constellation" src="https://github.com/user-attachments/assets/f1fb70f4-f7f8-47b4-99f4-9c19f6802909" />
 
 **Eye Diagram:**  
-![BPSK Eye Diagram](docs/figures/BPSK_eye_diagram.png)
+<img width="1260" height="720" alt="BPSK_eye_diagram" src="https://github.com/user-attachments/assets/8ca400ae-b63f-4d4c-8072-e50532c54701" />
 
-**Matched-Filter Output:**  
-![BPSK Matched-Filter Output](docs/figures/BPSK_time_segment.png)
+**Matched-Filter Output:** 
+<img width="1620" height="576" alt="BPSK_time_segment" src="https://github.com/user-attachments/assets/4c7bedf8-96e8-4eff-9a80-ec43a56aeed7" />
 
----
 
 ## 🧪 Running Hardware Simulations
 
